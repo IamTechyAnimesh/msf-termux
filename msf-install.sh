@@ -1,22 +1,14 @@
 #!/data/data/com.termux/files/usr/bin/bash
-
-# Banner and center functions (MSF title + owner)
 center_banner() {
     local termwidth=$(stty size | cut -d" " -f2)
 
     local banner=(
         "╔═════════════════════════════════════════════════════════╗"
         "║                                                         ║"
-        "║    ████  █████  ███████     ███████  ███████ ███████    ║"
-        "║    █   █ █   █  █           █       █       █          ║"
-        "║    █████ █   █  █████        █████   █████   █████     ║"
-        "║    █   █ █   █  █               █   █           █      ║"
-        "║    █   █ █████  ███████     ███████ ███████ ███████    ║"
-        "║                                                         ║"
         "║                       >>> MSF <<<                       ║"
         "║                                                         ║"
-        "║               Metasploit in Termux - by                ║"
-        "║                 IamTechyAnimesh                         ║"
+        "║                Metasploit in Termux - by                ║"
+        "║                      IamTechyAnimesh                    ║"
         "║                                                         ║"
         "╚═════════════════════════════════════════════════════════╝"
     )

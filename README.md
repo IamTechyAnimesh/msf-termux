@@ -50,11 +50,11 @@ Use Metasploit only on systems you own or where you have explicit, written permi
    ```
 8. Make the script executable
    ```bash
-    chmod +x msfinstall
+    chmod +x msf-termux
     ```
 9. Run the installer script
     ```bash
-    ./msfinstall
+    ./msf-termux
     ```
  
  ## When installation finishes, start Metasploit with:

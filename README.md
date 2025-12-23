@@ -83,6 +83,7 @@ Do not use Metasploit for unauthorized access, privacy breaches, or damage. Keep
 
 ---
 
-**Credits:** Metasploit Framework and the official installer wrappers — [**@Rapid7**](https://github.com/rapid7).
-
+**Credits:** Metasploit Framework and the official installer wrappers — [**@Rapid7**](https://github.com/rapid7).</br>
+**Contribution:** Thanks to [Aditya Kumar](https://github.com/adityakumarsandhaiya-collab) for testing the [MSF-Termux-PoC](https://github.com/IamTechyAnimesh/MSF-Termux-PoC)</br>
+</br>
 **License:** MIT — © 2025 IamTechyAnimesh
